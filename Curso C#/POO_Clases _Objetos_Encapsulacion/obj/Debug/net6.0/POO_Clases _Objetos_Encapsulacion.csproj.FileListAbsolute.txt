@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.AssemblyInfo.cs
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\bin\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.exe
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\bin\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.deps.json
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\bin\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.runtimeconfig.json
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\bin\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.dll
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\bin\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.pdb
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.dll
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\refint\POO_Clases _Objetos_Encapsulacion.dll
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.pdb
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\POO_Clases _Objetos_Encapsulacion.genruntimeconfig.cache
+D:\Informacion\Documentos\Holberton\holbertonschool-csharp\0x07-csharp-tdd\POO_Clases _Objetos_Encapsulacion\obj\Debug\net6.0\ref\POO_Clases _Objetos_Encapsulacion.dll

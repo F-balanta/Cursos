@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/obj/Debug/netcoreapp2.1/5-camelcase.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/obj/Debug/netcoreapp2.1/5-camelcase.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/obj/Debug/netcoreapp2.1/5-camelcase.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/obj/Debug/netcoreapp2.1/5-camelcase.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/bin/Debug/netcoreapp2.1/5-camelcase.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/bin/Debug/netcoreapp2.1/5-camelcase.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/bin/Debug/netcoreapp2.1/5-camelcase.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/bin/Debug/netcoreapp2.1/5-camelcase.dll
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/bin/Debug/netcoreapp2.1/5-camelcase.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/obj/Debug/netcoreapp2.1/5-camelcase.dll
+/mnt/d/Informacion/Documentos/Curso C#/Practica/5-camelcase/obj/Debug/netcoreapp2.1/5-camelcase.pdb

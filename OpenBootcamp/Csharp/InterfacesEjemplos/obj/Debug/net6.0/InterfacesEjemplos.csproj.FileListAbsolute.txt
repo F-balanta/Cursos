@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\bin\Debug\net6.0\InterfacesEjemplos.exe
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\bin\Debug\net6.0\InterfacesEjemplos.deps.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\bin\Debug\net6.0\InterfacesEjemplos.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\bin\Debug\net6.0\InterfacesEjemplos.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\bin\Debug\net6.0\InterfacesEjemplos.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\refint\InterfacesEjemplos.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\InterfacesEjemplos.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\InterfacesEjemplos\obj\Debug\net6.0\ref\InterfacesEjemplos.dll

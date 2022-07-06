@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\bin\Debug\net6.0\PrincipioSustitucionHerencia.exe
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\bin\Debug\net6.0\PrincipioSustitucionHerencia.deps.json
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\bin\Debug\net6.0\PrincipioSustitucionHerencia.runtimeconfig.json
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\bin\Debug\net6.0\PrincipioSustitucionHerencia.dll
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\bin\Debug\net6.0\PrincipioSustitucionHerencia.pdb
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.AssemblyInfo.cs
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.dll
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\refint\PrincipioSustitucionHerencia.dll
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.pdb
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\PrincipioSustitucionHerencia.genruntimeconfig.cache
+D:\Informacion\Documentos\Curso C#\PrincipioSustitucionHerencia\obj\Debug\net6.0\ref\PrincipioSustitucionHerencia.dll

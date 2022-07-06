@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\bin\Debug\net6.0\programacion_Asincrona.exe
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\bin\Debug\net6.0\programacion_Asincrona.deps.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\bin\Debug\net6.0\programacion_Asincrona.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\bin\Debug\net6.0\programacion_Asincrona.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\bin\Debug\net6.0\programacion_Asincrona.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\refint\programacion_Asincrona.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\programacion_Asincrona.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\programacion_Asincrona\obj\Debug\net6.0\ref\programacion_Asincrona.dll

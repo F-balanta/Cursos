@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.dll
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.dll
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.pdb

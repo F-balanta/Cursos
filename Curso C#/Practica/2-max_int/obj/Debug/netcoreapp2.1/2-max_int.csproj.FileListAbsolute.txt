@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/obj/Debug/netcoreapp2.1/2-max_int.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/obj/Debug/netcoreapp2.1/2-max_int.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/obj/Debug/netcoreapp2.1/2-max_int.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/obj/Debug/netcoreapp2.1/2-max_int.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/bin/Debug/netcoreapp2.1/2-max_int.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/bin/Debug/netcoreapp2.1/2-max_int.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/bin/Debug/netcoreapp2.1/2-max_int.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/bin/Debug/netcoreapp2.1/2-max_int.dll
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/bin/Debug/netcoreapp2.1/2-max_int.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/obj/Debug/netcoreapp2.1/2-max_int.dll
+/mnt/d/Informacion/Documentos/Curso C#/Practica/2-max_int/obj/Debug/netcoreapp2.1/2-max_int.pdb

@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/bin/Debug/netcoreapp2.1/LanzamientoExcepciones.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/bin/Debug/netcoreapp2.1/LanzamientoExcepciones.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/bin/Debug/netcoreapp2.1/LanzamientoExcepciones.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/bin/Debug/netcoreapp2.1/LanzamientoExcepciones.dll
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/bin/Debug/netcoreapp2.1/LanzamientoExcepciones.pdb
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/obj/Debug/netcoreapp2.1/LanzamientoExcepciones.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/obj/Debug/netcoreapp2.1/LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/obj/Debug/netcoreapp2.1/LanzamientoExcepciones.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/obj/Debug/netcoreapp2.1/LanzamientoExcepciones.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/obj/Debug/netcoreapp2.1/LanzamientoExcepciones.dll
+/mnt/d/Informacion/Documentos/Curso C#/LanzamientoExcepciones/obj/Debug/netcoreapp2.1/LanzamientoExcepciones.pdb

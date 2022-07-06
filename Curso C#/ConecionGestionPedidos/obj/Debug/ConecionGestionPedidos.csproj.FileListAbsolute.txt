@@ -1,0 +1,16 @@
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\bin\Debug\ConecionGestionPedidos.exe.config
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\bin\Debug\ConecionGestionPedidos.exe
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\bin\Debug\ConecionGestionPedidos.pdb
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.csproj.SuggestedBindingRedirects.cache
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\MainWindow.g.cs
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\App.g.cs
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos_MarkupCompile.cache
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos_MarkupCompile.lref
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\MainWindow.baml
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.g.resources
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.Properties.Resources.resources
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.csproj.GenerateResource.cache
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.exe
+D:\Informacion\Documentos\Curso C#\ConecionGestionPedidos\obj\Debug\ConecionGestionPedidos.pdb

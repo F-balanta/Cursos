@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.dll
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/bin/Debug/netcoreapp2.1/4-print_list.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.dll
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.pdb

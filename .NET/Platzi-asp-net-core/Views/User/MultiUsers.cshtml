@@ -1,0 +1,35 @@
+﻿@model List<User>
+
+@{
+    ViewData["Title"] = "Information CEAPP";
+    Layout = "_Layout";
+}
+
+<h1><strong>Users Information</strong></h1>
+<br />
+<br />
+<br />
+<table class="table table-bordered">
+    <thead class="thead-dar">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">DNI</th>
+            <th scope="col">Nombres</th>
+            <th scope="col">Apellidos</th>
+            <th scope="col">Rol</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+       {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.DNI</td>
+            <td>@item.Nombres</td>
+            <td>@item.Apellidos</td>
+            <td>@item.Role</td>
+        </tr>
+       }
+        
+    </tbody>
+</table>

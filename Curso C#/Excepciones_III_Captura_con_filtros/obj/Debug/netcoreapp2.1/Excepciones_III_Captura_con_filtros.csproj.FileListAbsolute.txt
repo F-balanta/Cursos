@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/obj/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/obj/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/obj/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/obj/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/bin/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/bin/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/bin/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/bin/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.dll
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/bin/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/obj/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.dll
+/mnt/d/Informacion/Documentos/Curso C#/Excepciones_III_Captura_con_filtros/obj/Debug/netcoreapp2.1/Excepciones_III_Captura_con_filtros.pdb

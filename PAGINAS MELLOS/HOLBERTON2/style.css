@@ -1,0 +1,114 @@
+body{
+	background-color: #f2a30b;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+h1, h2, h3, p {
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+h1{
+	font-size: 40px;
+	text-align: center;
+}
+
+article{
+	width: 80%;
+}
+
+aside{
+	background-color: white;
+	width: 15%;
+	font-family: "Segoe UI Semibold";
+}
+
+
+header{
+	width: 100%;
+	background-color: #f2a30b;
+	margin: auto;
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+footer{
+	background-color:  #f2a30b8;
+	font-size: 25px;
+	font-family: 'Yusei Magic', sans-serif;
+
+}
+
+
+.menu{
+	margin: auto;
+}
+
+.menu img {
+	width: 80%;
+}
+
+.list{
+	text-decoration:none;
+	color: black;
+	font-size: 25px;
+}
+
+
+
+#menu {
+	margin-right: 30%;
+}
+
+ul {
+	display: flex;
+	margin: 0;
+
+}
+
+li {
+	list-style-type: none;
+	padding:0;
+	margin: 0;
+}
+
+.contenedor{
+	flex: auto;
+	background-color: white;
+	display: flex;
+}
+
+
+li.social_twitter{
+	background-color: #1b95e0;
+}
+
+
+li.social_fb{
+	background-color: #1877f2;
+}
+
+
+li.social_pinterest{
+	background-color: #c61d26;
+}
+
+
+li.social_linkedin{
+	background-color: #0077b5;
+}
+
+li.social_email{
+	background-color: gray;
+}
+
+a.social_pinterest, a.social_linkedin, #social_media ul div .social_fb a, #social_media ul div .social_twitter a, a.social_email{
+	color: white;
+}
+
+iframe{
+	width: 35%;
+	margin: 5%;
+}
+

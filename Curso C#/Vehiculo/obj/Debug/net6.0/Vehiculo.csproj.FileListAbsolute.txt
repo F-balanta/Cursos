@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Curso C#\Vehiculo\bin\Debug\net6.0\Vehiculo.exe
+D:\Informacion\Documentos\Curso C#\Vehiculo\bin\Debug\net6.0\Vehiculo.deps.json
+D:\Informacion\Documentos\Curso C#\Vehiculo\bin\Debug\net6.0\Vehiculo.runtimeconfig.json
+D:\Informacion\Documentos\Curso C#\Vehiculo\bin\Debug\net6.0\Vehiculo.dll
+D:\Informacion\Documentos\Curso C#\Vehiculo\bin\Debug\net6.0\Vehiculo.pdb
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.AssemblyInfo.cs
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.dll
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\refint\Vehiculo.dll
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.pdb
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\Vehiculo.genruntimeconfig.cache
+D:\Informacion\Documentos\Curso C#\Vehiculo\obj\Debug\net6.0\ref\Vehiculo.dll

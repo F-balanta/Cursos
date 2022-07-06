@@ -1,0 +1,47 @@
+﻿using System;
+
+class Excepciones
+{
+    static void Main(string[] args)
+    {
+        Random numero = new Random();
+
+        int aleatorio = numero.Next(0, 100);
+        int minumero;
+        int intentos = 0;
+        Console.WriteLine("Indtoduce un N° entre (0 y 100)");
+
+        do{
+            intentos++;
+            try
+            {
+                minumero = int.Parse(Console.ReadLine());
+            }
+            /*
+            catch (FormatException e)
+            {
+                Console.WriteLine("Has introducido texto");
+                minumero = 0;
+            }*/
+            // Primero se agregan las excepciones especificas y luego las genericas
+            // la linea 27 dice que me va a capturar todas las excepciones cuando las excepciones no sean FormatException
+            catch(Exception e) when (e.GetType()!=typeof(FormatException))
+            {
+                Console.WriteLine("Ha habido un error.\nse toma como numero introducido el 0");
+                minumero = 0;
+            }
+            catch(FormatException e)
+            {
+                Console.WriteLine("Has introducido texto.\nse toma como numero introducido el 0");
+                minumero = 0;
+            }
+
+            if (minumero > aleatorio) Console.WriteLine("El N° es mas bajo.");
+            if (minumero < aleatorio) Console.WriteLine("El N° es mas alto.");
+        } while (aleatorio != minumero);
+
+        Console.WriteLine($"Correcto! Has necesitado {intentos} intentos");
+
+        Console.WriteLine("A partir de esta linea de codigo el programa continuaría");
+    }
+}

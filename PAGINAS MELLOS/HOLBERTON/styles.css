@@ -1,0 +1,138 @@
+body{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+header{
+	background-color: #900c3f;
+}
+
+article{
+	width: 70%;
+	margin: 0;
+	padding-top: : 0;
+}
+
+aside{
+	background-color: white;
+	font-family: "Segoe UI Semibold";
+	width:23%;
+	margin: 0;
+	padding-top: 3%;
+}
+
+h1,h3{
+	text-align: center;
+}
+
+h1,h2,h3{
+	font-family: 'Bahnschrift SemiBold';
+
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3{
+	font-size: 25px;
+}
+
+p{
+	font-family: 'Signika', sans-serif;
+	font-size: 20px;
+	color: gray;
+
+}
+footer{
+
+	font-family: 'Bahnschrift SemiBold';
+	font-size: 20px;
+	background-color: #900c3f;
+	padding-top: 1%;
+}
+
+iframe{
+	width: 35%;
+	margin: 5%;
+}
+
+
+li{
+	padding: 5%;
+}
+ul{
+	   align-items: center;
+
+	padding-left: 1%;
+}
+
+.left{
+	margin-left: 2%;
+	   align-items: center;
+
+}
+
+a{
+
+	text-decoration:none;
+	color: black;
+}
+.How_to_play{
+	display: flex;
+	width: 100%;
+
+}
+.HTP{
+	width: 99%;
+	margin: 0;
+}
+#logo{
+	width: 9%;
+}
+
+.list{
+	list-style-type: none;
+	font-size: 20px;
+	font-family: 'Bahnschrift SemiBold';
+}
+
+.social_media{
+	display: flex;
+	flex: auto;
+	width: 100%;
+}
+
+
+.menu{
+	display: flex;
+}
+
+.contenedor{
+	flex: auto;
+	background-color: white;
+	display: flex;
+	width: 100%
+
+}
+.characters{
+	padding-right:1%;
+}
+.characters h2{
+	font-size :15px;
+}
+.champions{
+	width: 100%;
+	display: flex;
+
+	float: left;
+}
+.characters img{
+	width: auto;
+}
+
+.social_icons{
+	display:flex;
+}
+

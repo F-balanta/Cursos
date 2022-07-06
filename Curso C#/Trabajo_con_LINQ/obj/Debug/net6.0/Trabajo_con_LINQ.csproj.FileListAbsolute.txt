@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\bin\Debug\net6.0\Trabajo_con_LINQ.exe
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\bin\Debug\net6.0\Trabajo_con_LINQ.deps.json
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\bin\Debug\net6.0\Trabajo_con_LINQ.runtimeconfig.json
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\bin\Debug\net6.0\Trabajo_con_LINQ.dll
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\bin\Debug\net6.0\Trabajo_con_LINQ.pdb
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.AssemblyInfo.cs
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.dll
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\refint\Trabajo_con_LINQ.dll
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.pdb
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\Trabajo_con_LINQ.genruntimeconfig.cache
+D:\Informacion\Documentos\CURSOS\Curso C#\Trabajo_con_LINQ\obj\Debug\net6.0\ref\Trabajo_con_LINQ.dll

@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\bin\Debug\net6.0\Constructores_POO_IV.exe
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\bin\Debug\net6.0\Constructores_POO_IV.deps.json
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\bin\Debug\net6.0\Constructores_POO_IV.runtimeconfig.json
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\bin\Debug\net6.0\Constructores_POO_IV.dll
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\bin\Debug\net6.0\Constructores_POO_IV.pdb
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.AssemblyInfo.cs
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.dll
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\refint\Constructores_POO_IV.dll
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.pdb
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\Constructores_POO_IV.genruntimeconfig.cache
+D:\Informacion\Documentos\Curso C#\Constructores_POO_IV\obj\Debug\net6.0\ref\Constructores_POO_IV.dll

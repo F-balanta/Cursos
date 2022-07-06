@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\bin\Debug\net6.0\CoroEscuela.exe
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\bin\Debug\net6.0\CoroEscuela.deps.json
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\bin\Debug\net6.0\CoroEscuela.runtimeconfig.json
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\bin\Debug\net6.0\CoroEscuela.dll
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\bin\Debug\net6.0\CoroEscuela.pdb
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.AssemblyInfo.cs
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.dll
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\refint\CoroEscuela.dll
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.pdb
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\CoroEscuela.genruntimeconfig.cache
+D:\Informacion\Documentos\CURSOS\.NET\Platzi\CoroEscuela\obj\Debug\net6.0\ref\CoroEscuela.dll

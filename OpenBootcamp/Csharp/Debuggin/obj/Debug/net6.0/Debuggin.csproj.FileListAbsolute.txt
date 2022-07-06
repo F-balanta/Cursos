@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\bin\Debug\net6.0\Debuggin.exe
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\bin\Debug\net6.0\Debuggin.deps.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\bin\Debug\net6.0\Debuggin.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\bin\Debug\net6.0\Debuggin.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\bin\Debug\net6.0\Debuggin.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\refint\Debuggin.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\Debuggin.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Debuggin\obj\Debug\net6.0\ref\Debuggin.dll

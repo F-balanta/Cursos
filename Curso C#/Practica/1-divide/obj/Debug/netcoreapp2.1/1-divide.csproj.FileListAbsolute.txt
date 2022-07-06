@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/obj/Debug/netcoreapp2.1/1-divide.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/obj/Debug/netcoreapp2.1/1-divide.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/obj/Debug/netcoreapp2.1/1-divide.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/obj/Debug/netcoreapp2.1/1-divide.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/bin/Debug/netcoreapp2.1/1-divide.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/bin/Debug/netcoreapp2.1/1-divide.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/bin/Debug/netcoreapp2.1/1-divide.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/bin/Debug/netcoreapp2.1/1-divide.dll
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/bin/Debug/netcoreapp2.1/1-divide.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/obj/Debug/netcoreapp2.1/1-divide.dll
+/mnt/d/Informacion/Documentos/Curso C#/Practica/1-divide/obj/Debug/netcoreapp2.1/1-divide.pdb

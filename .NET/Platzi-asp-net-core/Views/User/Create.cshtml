@@ -1,0 +1,26 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Create User";
+    Layout = "_Layout";
+}
+<form method="post">
+    <div>
+        <label asp-for="Nombres"></label>
+        <input asp-for="Nombres"/>
+    </div>
+    <div>
+        <label asp-for="Apellidos"></label>
+        <input asp-for="Apellidos"/>
+    </div>
+    <div>
+        <label asp-for="DNI"></label>
+        <input asp-for="DNI"/>
+    </div>
+        <div>
+        <label asp-for="Role"></label>
+        <input asp-for="Role"/>
+    </div>
+
+
+    <input type="submit"/>
+</form>

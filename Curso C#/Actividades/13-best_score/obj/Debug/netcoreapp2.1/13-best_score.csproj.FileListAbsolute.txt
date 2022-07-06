@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.deps.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.dll
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.pdb
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.dll
+/mnt/d/Informacion/Documentos/Curso C#/Actividades/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.pdb

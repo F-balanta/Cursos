@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\bin\Debug\net6.0\Hilos.exe
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\bin\Debug\net6.0\Hilos.deps.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\bin\Debug\net6.0\Hilos.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\bin\Debug\net6.0\Hilos.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\bin\Debug\net6.0\Hilos.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\refint\Hilos.dll
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.pdb
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\Hilos.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\OpenBootcamp\Csharp\Hilos\obj\Debug\net6.0\ref\Hilos.dll

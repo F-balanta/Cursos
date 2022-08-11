@@ -2,7 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace universitaryApiBackend.Controllers
 {
+    // Controlador que va a gestionar determinadas rutas
     [ApiController]
+    // Tendra una ruta que especifica: localhost:port/GetWeatherForecast
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
@@ -17,7 +19,7 @@ namespace universitaryApiBackend.Controllers
         {
             _logger = logger;
         }
-
+        // Metodo Get a la ruta localhost:port/GetWeatherForecast
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {

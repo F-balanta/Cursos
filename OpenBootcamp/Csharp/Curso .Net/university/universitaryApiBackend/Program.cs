@@ -11,6 +11,7 @@ const string CONNECTIONNAME = "universityDB";
 // Obtener conexion
 var connectionString = builder.Configuration.GetConnectionString(CONNECTIONNAME);
 // 3. Add Context
+// Se agrega un servicio que nos permitira usar la base de datos con SQL SERVER
 builder.Services.AddDbContext<UniversityDBContext>(options => options.UseSqlServer(connectionString));
 
 // Add services to the container.

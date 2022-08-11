@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\bin\Debug\net6.0\EjemploSealed.exe
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\bin\Debug\net6.0\EjemploSealed.deps.json
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\bin\Debug\net6.0\EjemploSealed.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\bin\Debug\net6.0\EjemploSealed.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\bin\Debug\net6.0\EjemploSealed.pdb
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\refint\EjemploSealed.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.pdb
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\EjemploSealed.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploSealed\EjemploSealed\obj\Debug\net6.0\ref\EjemploSealed.dll

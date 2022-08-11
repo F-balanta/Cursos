@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\bin\Debug\net6.0\EjemploInterfaces.exe
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\bin\Debug\net6.0\EjemploInterfaces.deps.json
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\bin\Debug\net6.0\EjemploInterfaces.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\bin\Debug\net6.0\EjemploInterfaces.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\bin\Debug\net6.0\EjemploInterfaces.pdb
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\refint\EjemploInterfaces.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.pdb
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\EjemploInterfaces.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\EjemploInterfaces\EjemploInterfaces\obj\Debug\net6.0\ref\EjemploInterfaces.dll

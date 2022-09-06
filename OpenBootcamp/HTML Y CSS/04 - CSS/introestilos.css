@@ -1,0 +1,41 @@
+/**Estilos para colores*/
+.colores{
+  color: orangered;
+}
+.color-hexadecimal{
+  color: #32a287;
+}
+.color-rgb{
+  color: rgb(100, 0, 200);
+}
+.color-rgba{
+  color: rgba(10, 10, 10, 0.85);
+}
+
+
+.fondo{
+  background: #eee1b3;
+  background-image: url("https://png.pngtree.com/background/20210709/original/pngtree-shading-background-abstract-colorful-background-colorful-art-picture-image_938007.jpg");
+  background-position: right bottom;
+}
+
+/*Tamaños*/
+
+.ancho{
+  background-color: lawngreen;
+  width: 100px;
+}
+
+.alto{
+
+  background-color: aquamarine;
+  height: 500px;
+}
+
+.tarjeta{
+  border-style: solid;
+  border-color: rgb(150,150,150);
+  border-width: 1px;
+  /*border-top: none;*/
+  padding:10px 20px 30px 40;
+}

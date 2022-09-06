@@ -1,0 +1,38 @@
+h1{
+  color: red ;
+}
+
+p{
+  color: blue;
+  font-size: 16pt;
+}
+
+/*Selectores de id*/
+#primera-noticia{
+  color: green;
+  font-size: 12pt;
+}
+/*Solo los parrafos que tengan un id primera noticia
+son seleccionados para el estilo*/
+p#primera-noticia{
+}
+
+#segunda-noticia{
+  color: darkmagenta;
+}
+
+/*Selectiores de clase*/
+.encabezado{
+  font-size: 24pt;
+  text-transform: uppercase;
+}
+/*Selector Universal*/
+/*Todos los elementos del html que tengan la clase warning*/
+*.warning{
+  color: red;
+}
+
+.autor, .fecha, .ubicacion{
+  text-decoration: underline;
+}
+

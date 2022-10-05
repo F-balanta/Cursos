@@ -274,18 +274,122 @@ namespace LinqSnippets
 
         public static void  student()
         {
+            var classRoom = new[]
+            {
+                new Student
+                {
+                    Id = 1,
+                    Name = "Martin",
+                    Grade = 90,
+                    Cerfified = true
+                },            new Student
+                {
+                    Id = 2,
+                    Name = "Martin",
+                    Grade = 90,
+                    Cerfified = true
+                },
+                new Student
+                {
+                    Id = 3,
+                    Name = "Juan",
+                    Grade = 50,
+                    Cerfified = false
+                },
+                new Student
+                {
+                    Id = 3,
+                    Name = "Ana",
+                    Grade = 96,
+                    Cerfified = true
+                },
+                new Student
+                {
+                    Id = 4,
+                    Name = "Alvaro",
+                    Grade = 10,
+                    Cerfified = false
+                },
+                new Student
+                {
+                    Id = 5,
+                    Name = "Pedro",
+                    Grade = 50,
+                    Cerfified = true
+                }
+            };
 
+            var certifiedStudent = from student in classRoom
+                                   where student.Cerfified
+                                   select student;
+
+            var notCertifiedStudent= from student in classRoom
+                                     where student.Cerfified == false
+                                     select student;
+
+            var approvedStudentsNames = from student in classRoom
+                                   where student.Grade >= 50 && student.Cerfified == true
+                                   select student.Name;
         }
 
         // ALL
+        public static void AllLinq()
+        {
+            var numbers = new List<int>() { 1,2,3,4,5 };
 
+            bool allAreSmallerThan10 = numbers.All(x => x < 10);// true
+
+            bool AllareBigOrEqualThan2 = numbers.All(x => x >= 2); // false
+
+            var emptyList = new List<int>();
+            bool allNUmbersAreGreaterThan0 = numbers.All(x => x >= 0); // true
+        }
 
         // Aggregate
+        public static void aggregateQueries()
+        {
+            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            // Sum all numbers
+            int sum = numbers.Aggregate((prevSum, current) => prevSum + current);
+            /**
+             * 0, 1 => 1
+             * 1. 2 => 3
+             * 3, 4 => 7
+             * etc.
+             */
 
+            string[] words = { "hello,", "my", "name", "is", "martin" };
+            string greeting = words.Aggregate((prevGreeting, current) => prevGreeting + current);
+            /**
+             * ",", "hello"=>hello,
+             * "hello,", "my" => "hello my"
+             * "hello,my", "name" =>"hellow, my name"
+             * etc.
+             */
+        }
 
         // Disctinct
+        public static void distinctValues()
+        {
+            int[] numbers = { 1, 2, 3, 4, 5, 5, 4, 3, 2, 1 };
 
+            IEnumerable<int> distinctValues = numbers.Distinct();
+        }
 
-        // GroupBy
+        // GroupBy // Agrupacion por condicion
+        public static void groupByExamples()
+        {
+            List<int> numbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+            // valores pares - obtener numeros pares y generar 2 grupos
+            var grouped = numbers.GroupBy(x => x % 2 == 0);
+            foreach (var group in grouped)
+            {
+                foreach (var value in group)
+                {
+                    Console.WriteLine(value); // numeros impares  y luego los pares {1,3,5,7,9} {2,4,6,8 }
+                }
+            }
+        }
     }
 }

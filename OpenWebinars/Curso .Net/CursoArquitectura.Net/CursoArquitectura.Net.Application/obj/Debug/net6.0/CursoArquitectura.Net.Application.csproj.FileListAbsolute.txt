@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\bin\Debug\net6.0\CursoArquitectura.Net.Application.deps.json
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\bin\Debug\net6.0\CursoArquitectura.Net.Application.dll
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\bin\Debug\net6.0\CursoArquitectura.Net.Application.pdb
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\bin\Debug\net6.0\CursoArquitectura.Net.Core.dll
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\bin\Debug\net6.0\CursoArquitectura.Net.Core.pdb
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.csproj.CopyComplete
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.dll
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\refint\CursoArquitectura.Net.Application.dll
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\CursoArquitectura.Net.Application.pdb
+D:\Informacion\Documentos\Cursos\OpenWebinars\Curso .Net\CursoArquitectura.Net\CursoArquitectura.Net.Application\obj\Debug\net6.0\ref\CursoArquitectura.Net.Application.dll

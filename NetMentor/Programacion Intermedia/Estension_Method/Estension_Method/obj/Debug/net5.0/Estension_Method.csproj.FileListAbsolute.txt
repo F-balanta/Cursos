@@ -1,0 +1,16 @@
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\bin\Debug\net5.0\Estension_Method.exe
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\bin\Debug\net5.0\Estension_Method.deps.json
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\bin\Debug\net5.0\Estension_Method.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\bin\Debug\net5.0\Estension_Method.runtimeconfig.dev.json
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\bin\Debug\net5.0\Estension_Method.dll
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\bin\Debug\net5.0\Estension_Method.pdb
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.dll
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\refint\Estension_Method.dll
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.pdb
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\Estension_Method.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\NetMentor\Programacion Intermedia\Estension_Method\Estension_Method\obj\Debug\net5.0\ref\Estension_Method.dll

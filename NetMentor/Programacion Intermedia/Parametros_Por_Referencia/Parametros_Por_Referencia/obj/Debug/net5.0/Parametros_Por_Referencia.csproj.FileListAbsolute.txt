@@ -1,0 +1,16 @@
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\bin\Debug\net5.0\Parametros_Por_Referencia.exe
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\bin\Debug\net5.0\Parametros_Por_Referencia.deps.json
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\bin\Debug\net5.0\Parametros_Por_Referencia.runtimeconfig.json
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\bin\Debug\net5.0\Parametros_Por_Referencia.runtimeconfig.dev.json
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\bin\Debug\net5.0\Parametros_Por_Referencia.dll
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\bin\Debug\net5.0\Parametros_Por_Referencia.pdb
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.AssemblyInfo.cs
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.dll
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\refint\Parametros_Por_Referencia.dll
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.pdb
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\Parametros_Por_Referencia.genruntimeconfig.cache
+D:\Informacion\Documentos\HackerRank\Parametros_Por_Referencia\Parametros_Por_Referencia\obj\Debug\net5.0\ref\Parametros_Por_Referencia.dll

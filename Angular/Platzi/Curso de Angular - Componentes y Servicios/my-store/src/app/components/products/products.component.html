@@ -1,0 +1,16 @@
+<p>La cantidad {{myShoppingCart.length}}</p>
+<p>Total: ${{Total}}</p>
+<p>Today:{{today |date:'short' }} </p>
+<p>Today:{{today |timeAgo}} </p>
+<p>Otra fecha: {{date | date: 'yyyy mm dd'}}</p>
+<p>{{'letras a cambiar'|changeVocals }}</p>
+<p> {{'EsTe TeXto EsTa En MiNusCulA y MayusCula' | uppercase}}</p>
+<p> {{'EsTe TeXto EsTa En MiNusCulA y MayusCula' | lowercase}}</p>
+<p> {{'EsTe TeXto EsTa En MiNusCulA y MayusCula' | titlecase}}</p>
+<div class="products--grid">
+<app-product
+  [product]="product"
+  *ngFor="let product of products"
+  (addedProduct)="onAddToShopingCart($event)"
+></app-product>
+</div>

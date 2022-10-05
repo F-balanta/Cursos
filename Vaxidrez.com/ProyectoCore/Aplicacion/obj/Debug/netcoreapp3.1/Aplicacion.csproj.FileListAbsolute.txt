@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb

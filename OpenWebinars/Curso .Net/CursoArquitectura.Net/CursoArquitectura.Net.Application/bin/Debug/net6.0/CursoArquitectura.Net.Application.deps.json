@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoArquitectura.Net.Application/1.0.0": {
+        "dependencies": {
+          "CursoArquitectura.Net.Core": "1.0.0"
+        },
+        "runtime": {
+          "CursoArquitectura.Net.Application.dll": {}
+        }
+      },
+      "CursoArquitectura.Net.Core/1.0.0": {
+        "runtime": {
+          "CursoArquitectura.Net.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoArquitectura.Net.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoArquitectura.Net.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

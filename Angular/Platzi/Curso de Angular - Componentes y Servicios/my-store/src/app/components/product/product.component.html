@@ -1,0 +1,6 @@
+<app-img [img]="product.image"></app-img>
+<h2>{{product.price | currency:'COP' }}</h2><!--CURRENCY PIPE-->
+<p>{{product.title | reverse}}</p><!----REVERSE PIPE---->
+<p appHighlight>{{product.description}}</p><!----Highlight Agregado--->
+<button (click)="onAddToCart()">Add cart</button>
+

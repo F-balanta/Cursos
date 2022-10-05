@@ -1,0 +1,42 @@
+---------------
+| Comandos Git|
+---------------
+
+---Git init
+Inicializa un reposotorio en git completamente vacio.
+
+
+
+---git add: Al usar el comando git add los archivos que semodificaron son seleccionados y pasan a una etapa
+	intermedia que indica que archivos seran subidos al servidor.
+
+
+---git commit: Al usar git commit los archivos que estan en el stage pasan a una nueva etapa
+
+
+---git status: Muestra el estado actual del repositorio
+
+
+-------------------------------
+|Recuperar archivos eliminados|
+-------------------------------
+recuperar en en stage: git restore --stage [file]
+
+recuperar archivo local: git restore [file]
+		
+
+---------------------------------
+|Ignoprar archivos y Directorios|
+---------------------------------
+.gitignore lo que se escrib dentro de este archivo será excluido
+
+
+
+
+------------------------
+|Alternativa git status|
+------------------------
+git status -s
+M = Modified
+A = Added
+D = Deleted

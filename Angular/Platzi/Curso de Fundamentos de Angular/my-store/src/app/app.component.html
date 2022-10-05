@@ -1,0 +1,190 @@
+<!--STRING INTERPOLATION-->
+<hr/>
+<h1>Hola mundo</h1>
+<h2>{{"Hola mundo".repeat(5)}}</h2>
+<p>3 + 3 = {{3 + 3}}</p>
+<h3>Hola soy {{name}} y tengo {{age}}</h3>
+<img  width="200" src={{img}} alt="igame"/>
+
+
+<hr/>
+<!---PROPERTY BIDDING-->
+<br/><br/><br/><br/>
+<h1>Propiedades</h1>
+<button [disabled] = "btndisabled">Enviar</button>
+<input type="text" [value]="person.name">
+<progress max="100" [value]="person.age"></progress>
+<img  width="100" [src]="person.avatar"/>
+
+
+
+<!-----EVENTOS----->
+<hr/>
+<br/><br/><br/><br/>
+<h1>Eventos</h1>
+<button [disabled] = "btndisabled">Enviar</button>
+<button (click)="toggleButton()">Toggle Button</button>
+<p>Edad {{person.age}}</p>
+<button (click)="increaseAge()">Age++</button>
+
+<div class="box" (scroll)="onScroll($event)">
+  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,</p>
+</div>
+<p>{{person.name}}</p>
+<input type="text" [value]="person.name" (keyup)="changeName($event)" />
+
+
+
+<hr/>
+<br/><br/><br/><br/>
+<!---NG MODEL---->
+<!-- Compartir y hacer Bidding entre propiedades-->
+<h1>Ng Model</h1>
+<P></P>
+<p>{{person.name}}</p>
+<input type="text" required #nameInput='ngModel' [(ngModel)]="person.name"/>
+<p>Valid: {{nameInput.valid}}</p>
+<input type="number" max="18" min="10" required #ageInput='ngModel' [(ngModel)]="person.age"/>
+<p>Valid: {{ageInput.valid}}</p>
+
+
+
+<hr/>
+<br/><br/><br/><br/><br/>
+<h2>*ngIf</h2>
+<p>Es una estructura de control que permite mostrar
+  un componente si el valor es verdadero<br/>
+  En este caso  si el campo de texto dice Nicolas se renderizará una etiqueta</p>
+<input type="text"  [(ngModel)]="person.name"/>
+
+<!--BLOQUE DE TIPO IF-->
+<p *ngIf="person.name === 'Nicolas'">SOY NICOLAS</p>
+<p>En caso de decir 'julian' se mostrará una etiqueta mencionando el nombre <br/>
+  Sino se mostrara eltexto (Bloque de else)</p>
+<p *ngIf="person.name === 'julian' && person.age === 18; else elseBlock">SOY JULIAN</p>
+
+<!--BLOQUE DE TIPO ELSE-->
+<ng-template #elseBlock>
+  <p>Bloque de else </p>
+</ng-template>
+
+
+<br/><br/><br/><br/><br/><br/>
+
+<hr/>
+<h1>ESTRUCTURAS DE CONTROL - DIRECTIVAS</h1>
+<h2>ngSwitch</h2>
+<input type="text" required [(ngModel)]="person.name"/>
+<div [ngSwitch]="person.name">
+  <p *ngSwitchCase="'nicolas'">La persona es nicolas  </p>
+  <p *ngSwitchCase="'julian'">La persona es Julian  </p>
+  <p *ngSwitchCase="'camilo'">La persona es Camilo  </p>
+  <p *ngSwitchDefault>No hace match</p>
+</div>
+<hr/>
+
+<h2>*ngFor Objects</h2>
+<div class="products--grid">
+  <div *ngFor="let product of products">
+    <img [src] = 'product.image' alt="image">
+    <h2>{{product.price}}</h2>
+    <p>{{product.name}}</p>
+  </div>
+</div>
+<h2>*ngFor</h2>
+<p>Es una estructura de control que sirve para iterar elementos
+  sea javascript, numeros u objetos</p>
+<input type="text" required [(ngModel)]="newName"/>
+<button (click)="addName()">Add name</button>
+<ul>
+  <p>Para obtener el indice de la iteracion  se debe de agregar el index de esta forma:<br/>
+    <code> *ngFor="let name of names; index </code>
+  </p>
+  <li *ngIf="names.length === 0">No hay nombres</li>
+  <li *ngFor="let name of names; index as i">
+    {{i}} {{name}}
+    <button (click)="deleteName(i)">Delete</button>
+  </li>
+</ul>
+
+
+
+
+
+<h1>Class & Style</h1>
+<input type="text" required #nameInput2="ngModel" [(ngModel)]="person.name"/>
+<p class="message-error"[class.invalid]="nameInput2.invalid"
+>El campo es requerido</p>
+<label for="">Nombre</label>
+<input type="text" required #nameInput3="ngModel" [(ngModel)]="person.name"/>
+<p [style.font-style]="nameInput3.invalid ? 'italic':'normal'">Texto Texto Texto </p>
+
+<div class="styles">
+  <div>
+    <input type="text" required [(ngModel)]="widthImg"/>
+  </div>
+  <div>
+    <img  [style.width.px]="widthImg" [src]="person.avatar"/>
+  </div>
+</div>
+<hr/><br/><br/><br/><br/>
+
+<h1>NgClass & NgStyle</h1>
+<h2>Class</h2>
+<input type="text" required #nameInput4="ngModel" [(ngModel)]="person.name"/>
+<hr class="line-error"
+    [ngClass]="{
+      'valid': nameInput4.valid,
+      'invalid': nameInput4.invalid
+    }"/>
+<p class="message-error"[class.invalid]="nameInput4.invalid">El campo es requerido</p>
+<h2>Style</h2>
+<div class="styles">
+  <div>
+    <input type="number" [(ngModel)]="box.width"/>
+    <input type="number" [(ngModel)]="box.height"/>
+    <input type="color" [(ngModel)]="box.background"/>
+  </div>
+  <div>
+    <div [ngStyle]="{
+      'width.px' : box.width,
+      'height.px': box.height,
+      'background-color':box.background,
+      'display': 'block',
+      'border-radius': '25px'
+    }">
+
+    </div>
+  </div>
+</div>
+
+<hr/><br/><br/><br/><br/>
+<h1>Formuario</h1>
+<form  (ngSubmit)="onRegister()" #myForm="ngForm">
+  <div class="input-group">
+    <label for="name">Nombre</label>
+    <input type="text" id="name" [(ngModel)]="register.name" required name="Name"/>
+    <p>Mensajes de error</p>
+  </div>
+  <div class="input-group">
+    <label for="email">Email</label>
+    <input type="email" id="email" [(ngModel)]="register.email" required name="Email"/>
+    <p>Mensajes de error</p>
+  </div>
+  <div class="input-group">
+    <label for="name">Password</label>
+    <input type="text" id="password" [(ngModel)]="register.password" required name="Password"/>
+    <p>Mensajes de error</p>
+  </div>
+  <button [disabled]="myForm.invalid" type="submit">Registrar</button>
+  <button type="button"> Action</button>
+</form>
+
+
+
+
+
+
+
+
+

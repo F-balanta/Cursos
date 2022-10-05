@@ -1,0 +1,15 @@
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\bin\Debug\net6.0\ClaseAbstracta.exe
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\bin\Debug\net6.0\ClaseAbstracta.deps.json
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\bin\Debug\net6.0\ClaseAbstracta.runtimeconfig.json
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\bin\Debug\net6.0\ClaseAbstracta.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\bin\Debug\net6.0\ClaseAbstracta.pdb
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\refint\ClaseAbstracta.dll
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.pdb
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ClaseAbstracta.genruntimeconfig.cache
+D:\Informacion\Documentos\Cursos\.NET\Repaso .Net\ClaseAbstracta\ClaseAbstracta\obj\Debug\net6.0\ref\ClaseAbstracta.dll

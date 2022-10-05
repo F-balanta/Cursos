@@ -1,0 +1,17 @@
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb

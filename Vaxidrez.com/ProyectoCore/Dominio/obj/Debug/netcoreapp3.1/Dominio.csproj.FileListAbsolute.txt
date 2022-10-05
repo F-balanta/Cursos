@@ -1,0 +1,10 @@
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+D:\Informacion\Documentos\Cursos\Vaxidrez.com\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

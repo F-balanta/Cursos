@@ -1,4 +1,0 @@
-/mnt/d/Informacion/Documentos/Curso C#/Stack/obj/Debug/netcoreapp2.1/Stack.csprojAssemblyReference.cache
-/mnt/d/Informacion/Documentos/Curso C#/Stack/obj/Debug/netcoreapp2.1/Stack.csproj.CoreCompileInputs.cache
-/mnt/d/Informacion/Documentos/Curso C#/Stack/obj/Debug/netcoreapp2.1/Stack.AssemblyInfoInputs.cache
-/mnt/d/Informacion/Documentos/Curso C#/Stack/obj/Debug/netcoreapp2.1/Stack.AssemblyInfo.cs

@@ -1,0 +1,24 @@
+<!-- <h1>Hola soy un H1 {{nombre}} {{apellido}}</h1>
+<h2>Hola y yo soy el alumno {{alumno.nombre}} {{alumno.apellido}}</h2>
+<h3>Hola soy un H3</h3>
+
+<img [src]="imagen">
+
+<br>
+<input type="text" [(ngModel)]="inputNuevo">
+<p>{{inputNuevo}}</p> -->
+
+
+<label for=""> Correo
+    <input type="email" name="" id="" (ngModelChange)="escribirCorreo()" [(ngModel)]="correo">
+</label>
+
+<label for=""> Contraseña
+    <input type="password" name="" id="" (ngModelChange)="escribirModelo()" [(ngModel)]="password">
+</label>
+
+<button (dblclick)="llamarAlert()">Iniciar</button>
+
+<!--En el evento input no es necesario asignarle el valor de la variable con el ngModel
+al método a ejecutar se le pasa como parametro el evento que se está tecleando-->
+<input type="text" (input)="escribir($event)"><!--! $event = es el evento que se está enviando-->
